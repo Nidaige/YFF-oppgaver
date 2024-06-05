@@ -1,0 +1,62 @@
+Oppgave 1: Lag Wordle i Python
+
+Wordle er et spill hvor spilleren prøver å gjette et skjult ord på 5 bokstaver ved å gjette andre ord. 
+Spilleren får 6 forsøk, og får tilbakemelding ved hvert gjett:
+	- bokstaver som er i ordet og er på riktig plass blir grønne
+	- bokstaver som er i ordet men på feil sted blir gule.
+
+Lag et program som leser inn ord fra en ekstern fil (valgfritt navn, innholdet skal være diverse ord på 5 bokstaver; ett per linje).
+Velg ett av ordene tilfeldig (random-biblioteket)
+Ta et gjett fra brukeren (input-funksjonen)
+Gi feedback på gjettet; hvilke bokstaver er 100% riktige, hvilke er bare på feil plass?
+
+Nøkkelord: Wordle, While-loop, Input, File, Random, List, Print
+
+#########################################################################################################################################################################################################################
+
+Oppgave 2: Lag Tic Tac Toe i Python
+
+Lag et program som holder en liste med ni elementer som representerer et tic-tac-toe brett:
+_____________
+| 0 | 1 | 2 |
+|---|---|---|
+| 3 | 4 | 5 |
+|---|---|---|
+| 6 | 7 | 8 |
+|---|---|---|
+
+Spør brukeren om input som brukes til å velge en rute, hvor det settes en X eller en O alt etter hvem sin tur det er.
+Sjekk ved hvert trekk om en av spillerene har vunnet spillet.
+
+Bonus: lag en CPU-spiller som gjør trekk for den ene spilleren
+	Basic: Velger ledig rute tilfeldig
+	Advanced: Bruker en vilkårlig strategi
+	Pro: Bruker en optimal taktikk, gjerne sjekk litt opp på nettet hva som er den beste strategien
+
+Nøkkelord: Tic-tac-toe, While-loop, Input, Random, Print
+
+#########################################################################################################################################################################################################################
+
+Oppgave 3: Snake
+
+Denne oppgaven er ganske avansert, og vil nok ta en del tid. Den er heller ikke like detaljert som de andre, og er tenkt som en mer selvstendig oppgave.
+Du skal her gjenskape det gamle mobilspillet "Snake" i python.
+Her bør du bruke python-biblioteket "pygame" - se https://www.pygame.org
+
+Du kan holde styr på spill-brettet med et 2D-array; numpy har gode funksjoner for dette.
+Når du har et kjørende program, så kan du farge brettet i en farge, for eksempel hvit.
+Du kan deretter farge pikslene som tilsvarer slangens posisjon i svart.
+
+Hver "frame" beveger slangen seg fremover, og du endrer retning med piltastene.
+Det legges også ut en belønning som slangen skal gå over for å få flere poeng, som kan gjøres ved å velge en tilfeldig koordinat eller piksel på brettet.
+
+Du kan sjekke for kollisjon ved å sammenlikne slangens hode (X,Y) med belønningen (X,Y) og andre deler av slangens kropp.
+
+Hint: Du kan bruke forskjellige verdier for slangens hode og kropp (1 og 2), og belønningen (3).
+
+Hint 2: Hvis spillet blir for lite / vanskelig å se, så kan du skalere opp størrelsen rett før du tegner neste frame med render-funksjonen, da blir det lettere å spille :)
+
+Nøkkelord: Snake, pygame, numpy, while-loop, array
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Ekstra hint: Det finnes kode for snake i python med pygame på nettet, hvis du setter deg helt fast kan du se her: https://www.geeksforgeeks.org/snake-game-in-python-using-pygame-module/

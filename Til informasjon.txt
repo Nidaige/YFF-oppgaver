@@ -1,0 +1,17 @@
+Hei og velkommen til YFF-oppgavene hos Sopra Steria.
+Her er det et par ting vi vil informere om før du setter i gang:
+
+- Vi ønsker at du oppretter et repository på git (github.com) til lagring og styring av oppgavene.
+	- Dette er en viktig del av det å være utvikler, da det gjør det mulig å samarbeide på kode som skal kjøre sammen, og gjør at arbeidet ditt blir lagret i skyen.
+
+- Vi ønsker også at du informerer gjevnlig om hvordan det står til med oppgavene (gjerne vis oss!).
+	- Som utvikler vil du ofte ha daglige statusmøter hvor du kan få hjelp til ting du sliter med, og evt. diskutere mulige løsninger på problemer - sammen er vi sterke!
+
+- Om du får til oppgavene eller ei er ikke *så* viktig, så lenge du kommuniserer godt med oss om evt. problemer du støter på underveis.
+
+Så litt om oppgavene
+
+- Python-oppgavene er laget av oss, og består både av diverse mindre kode-oppgaver og større helhetlige utfordringer.
+	- Oppgavene er laget av ulike personer, så oppsettet er litt annerledes fra fil til fil, men med notepad og word skal du kunne lese alle.
+
+- Java-oppgavene er tidligere skoleoppgaver fra første klasse på bachelor som data-ingeniør, så dette er utprøvde oppgaver som også gir en smakebit på hvor nivået ligger hvis du går videre til høyere utdanning innen IT.
