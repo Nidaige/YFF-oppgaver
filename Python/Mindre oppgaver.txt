@@ -144,7 +144,7 @@ def find_index_of_element(n: int, l: list) -> int:
 # When method is ready, uncomment the following print commands to test it
 
 # print("-----------------------------\nTask 4.2: Find index of element\n-----------------------------")
-# print("Result: " + str(find_index_of_element(5, [1, 2, 3, 4, 5])) + "\nExpected output: 3")
+# print("Result: " + str(find_index_of_element(5, [1, 2, 3, 4, 5])) + "\nExpected output: 4")
 # print("Result: " + str(find_index_of_element(6, [1, 2, 3, 4, 5])) + "\nExpected output: -1")
 
 
