@@ -7,7 +7,7 @@
 
 # Test this code by executing it in a command line or terminal
 # You do this by navigating to the folder where this file is located in the terminal
-# Here, you run the program by typing "py problemsolving_tasks2.py" and pressing enter
+# Here, you run the program by typing "py --version" and pressing enter
 
 
 
