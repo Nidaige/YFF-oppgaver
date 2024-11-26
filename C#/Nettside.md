@@ -16,3 +16,8 @@ Når det kommer til selve nettsiden så er det du som bestemmer innholdet, men m
 
 
 Hvis du får tid kan du prøve å sette opp et REST-API, men dette regnes som langt over nivået du skal være på, og er ren bonus.
+
+
+Litt ymse punkter:
+- Du kan lage en nettside for hva som helst; en imaginær brus-produsent, tannkrem, deg selv (blogg), matoppskrifter, kollektivtransport, spill, sport/idrett. Velg noe du har litt interesse i så blir det lettere å motivere seg.
+- Når du starter opp webappen for første gang så _skal_ du få en popup om å godta self-signed certificate. **Denne MÅ du godta for å kunne koble til webappen din når den kjører lokalt**
