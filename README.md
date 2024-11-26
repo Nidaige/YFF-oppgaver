@@ -33,3 +33,8 @@ Når du har ditt repository, skal du i github desktop logge inn, før du under "
 En del av versjonskontroll er å styre det som kalles "branches" eller _greiner_. Du skal for hver oppgave, lage en ny branch (navn velger du selv), basert på Main-branch'en, som du jobber på. Når du er ferdig med en oppgave skal så branchen for denne oppgaven flettes tilbake inn i Main i det som kalles en _merge_.
 
 For å unngå konflikter mellom hvilken versjon av filer osv. som skal brukes, skal hver oppgave i en egen undermappe. 
+
+
+
+# Hold styr på oppgavene
+Det blir satt opp eget board for deg [her](https://github.com/users/Nidaige/projects/1) hvor du skal holde styr på oppgavene. Du trenger ikke legge inn kommentarer, men helst pass på at oppgaver du jobber med ligger i "In Progress", og at de flyttes videre til "Done" når du er ferdig.
